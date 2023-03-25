@@ -256,6 +256,7 @@ h6 {
   padding: 25px; /* Add some padding for spacing */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Add a subtle box-shadow effect */
   margin: 0 auto; /* Add this line to center the element horizontally */
+  top: 20%;
 }
 
 #hero h1 {
